@@ -1,3 +1,5 @@
+This is E-commerce website of mobile purchashing developed using react with multiple functionalities .
+Go , Explore it....
 # Getting Started with Create React App
 
 ##Install all dependencies ..
